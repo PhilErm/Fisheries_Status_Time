@@ -5,7 +5,10 @@
 # About
 Produces a bubble chart of fisheries status over time by country using historical data from the capture fisheries database documented in Costello, C., Ovando, D., Clavelle, T., Strauss, C. K., Hilborn, R., Melnychuk, M. C., ... & Leland, A. (2016). Global fishery prospects under contrasting management regimes. Proceedings of the national academy of sciences, 113(18), 5125-5129.
 
-# Obtaining the database for use with the script
+# How to use
+Simply run 'fisheriesOverTime.R' after obtaining the packages loaded at the beginning of the script and placing the data used with the script ('ProjectionData.csv'; obtainable seperately below) in the working directory.
+
+# Obtaining the data used with the script
 The version of the database used can be obtained from https://datadryad.org/stash/dataset/doi:10.25349/D96G6H. This was a version uploaded for use with a subsequent paper. The database required from the repository is 'ProjectionData.csv'.
 
 # Current limitations
